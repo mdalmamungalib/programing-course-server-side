@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "CodeCraft: Mastering Web Trio - HTML, CSS, JS",
+        "price": 120,
+        "description": "Build the Web: HTML, CSS, and JS Course. Learn to create captivating websites with HTML, style them with CSS, and add interactivity using JavaScript. Unlock your web development skills today.",
+        "image": "https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png"
+    },
+    {
+        "id": 2,
+        "title": "Reactify: Unleash Dynamic Web Experiences with React.js",
+        "price": 180,
+        "description": "Master the Art of Web Development with React.js: Harness the Power of Component-Based Architecture, Dynamic User Interfaces, Effortless Data Handling, and Unparalleled Scalability.",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G5AWXQ2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png"
+    },
+    {
+        "id": 3,
+        "title": "PHPower: Unleash the Web with Powerful PHP!",
+        "price": 150,
+        "description": "Embark on a Transformational Journey in Web Development with PHP: Harness the Dynamic Potential of Scripting, Embrace Seamless Integration, Explore Vast Libraries, and Shape Limitless Digital Experiences.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivKJffXIkRkK9_BPqg21dnluqBDilPKK0kw&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "title": "JavaGenius: Unleashing the Power of Java!",
+        "price": 185,
+        "description": "Master Java Programming: Unlock the Full Potential of the Java Language. Gain In-Depth Knowledge, Build Scalable Applications, and Forge a Path to Success in the World of Software Development.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOY8aiSzrUs8XmLizDXEPmEHLXnlIMXBWfQ&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "title": "C++Pro: Powering the Future with C++!",
+        "price": 695,
+        "description": "C++ Mastery: Dive into the World of C++ Programming and Unleash Your Potential. From Fundamentals to Advanced Concepts, Learn to Build Efficient and High-Performance Applications with the Versatile C++ Language.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIz2hyRVRjKs6SU9_4OypxIK_XYJkbQbGH5Q&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "title": "Mastering C#: From Fundamentals to Applications!",
+        "price": 168,
+        "description": "C# is a powerful language by Microsoft for building applications, leveraging the extensive capabilities of the .NET framework. Proficiency in C# opens diverse software development career opportunities.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnCredRrCErFUOp8AbV987m2BDgrS4hz_1K794U7On-cWjftZtAEVuTmpwpYtx9yX27o&usqp=CAU"
+    }
+]
